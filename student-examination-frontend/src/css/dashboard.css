@@ -1,0 +1,30 @@
+.dashboard{
+
+    padding:40px;
+
+}
+
+.cards{
+
+    display:flex;
+    gap:30px;
+
+    margin-top:40px;
+
+}
+
+.card{
+
+    width:250px;
+
+    padding:30px;
+
+    background:white;
+
+    border-radius:10px;
+
+    box-shadow:0 0 10px gray;
+
+    text-align:center;
+
+}
